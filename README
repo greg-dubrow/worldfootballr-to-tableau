@@ -1,0 +1,15 @@
+Testing workflow for:
+Collecting data from `worldfootballr` package
+Write data to a csv
+csv used for a visualization in tableau
+tableau workbook embedded in blog post
+
+
+Questions to answer in viz
+* Which teams under/overperformed xg at home, away, combined
+* Related to league position?
+
+Need to combine match results with season data for final set with:
+
+Team, league rank, w, d l, points total, points home, points away, home goals sum, home xg sum, goals - xg home,
+away goals, away xg, goals - xg, away, total goals, total xg, goals - xg total
