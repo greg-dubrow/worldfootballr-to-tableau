@@ -112,6 +112,3 @@ epl_results2223 %>%
 
 write_csv(epl_2223_byteam_all, "~/Data/football data files/epl_2223_byteam.csv")
 
-epl_2223_byteam_all %>%
-	select(team, xg_home, xg_away) %>%
-	view()
